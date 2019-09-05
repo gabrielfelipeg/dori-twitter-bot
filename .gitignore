@@ -1,3 +1,7 @@
+# Config
+config.json
+currencyconfig.json
+
 # Logs
 logs
 *.log

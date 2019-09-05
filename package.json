@@ -1,0 +1,19 @@
+{
+  "name": "dori-twitter-bot",
+  "version": "1.0.0",
+  "description": "Dori Twitter Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielfelipeg/dori-twitter-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielfelipeg/dori-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/gabrielfelipeg/dori-twitter-bot#readme"
+}
