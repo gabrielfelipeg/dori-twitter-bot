@@ -33,7 +33,7 @@ function generateMessage(dolar, hashtags){
   return msg;
 }
 
-schedule.scheduleJob({hour: 22, minute: 00}, () => {
+schedule.scheduleJob('0 */2 * * *', () => {
     http.get(currencyConfig.url, (resp) => {
         let data = '';
         resp.on('data', (chunk) => {
